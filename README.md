@@ -9,5 +9,4 @@ Rudimentary ETL pipeline utilising Spotify’s API to accumulate data based on r
 
 ![fav artist](https://user-images.githubusercontent.com/55677171/172041283-f7f6fd0c-9129-485b-953c-9dd015be6822.png)
 
-## To do
-Currently the displays are quite basic, using matplotlib, this updated using plotly
+
